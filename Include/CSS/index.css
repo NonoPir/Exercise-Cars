@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css2?family=Lexend+Deca&family=Outfit&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Big+Shoulders+Display&family=Lexend+Deca&family=Outfit&display=swap);
+body{background-color: hsl(0, 0%, 95%);}
+.cars{display: flex; flex-direction: row;justify-content:center;margin-top: 20%;font-family: Lexend Deca;font-size: 15px;margin-top: 8%;}
+.sedans{background-color: hsl(31, 77%, 52%); padding-top: 4%;padding-left: 5% ; width: 17%;border-top-left-radius: 2%; border-bottom-left-radius: 2%;}
+.suvs{background-color: hsl(184, 100%, 22%); padding-top: 4%; padding-left: 5%; width: 17%;}
+.luxury{background-color: hsl(179, 100%, 13%); padding-top: 4%;;padding-left: 5% ;width: 17%; padding-bottom: 6%; border-top-right-radius: 2%;border-bottom-right-radius: 2%;}
+.sd, .sv, .lx{color: hsla(0, 0%, 100%, 0.75);}
+.se,.su,.lu{color: hsl(0, 0%, 95%); font-family: Big Shoulders Display; font-size:xxx-large;}
+.bt{width:60%; height: 9%;background-color:hsl(31, 77%, 52%); color: hsl(0, 0%, 95%);border-color:  hsl(0, 0%, 95%);border: 2px solid white; background: none;
+    border-radius: 50px;cursor: pointer;font-family: Lexend Deca}
+.btt{width:60%;  ;height: 9%;background-color:hsl(184, 100%, 22%) ;color: hsl(0, 0%, 95%);border-color:  hsl(0, 0%, 95%);border: 2px solid white; background: none;
+    border-radius: 50px;cursor: pointer;font-family: Lexend Deca}
+.bttt{width:60%; ;height: 11%;background-color:hsl(179, 100%, 13%);color: hsl(0, 0%, 95%) ;border-color:  white;cursor: pointer;font-family: Lexend Deca; border: 2px solid white; background: none;
+    border-radius: 50px}
+  
+ 
